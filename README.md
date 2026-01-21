@@ -1,7 +1,7 @@
 # cecHT
 ### endpoint corrected Hilbert Transform (ecHT) with optional calibration
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX) (in submission)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.13962-b31b1b.svg)](https://arxiv.org/abs/2601.13962)
 
 [Eike Osmers](https://www.tu.berlin/en/mtec/about/teamfotos/eike-osmers), [Dorothea Kolossa](https://www.tu.berlin/en/mtec/about/management-and-administration/dorothea-kolossa)
 TU Berlin
@@ -127,11 +127,11 @@ If you find this work useful, please cite our paper:
 
 ```bibtex
 @article{osmersOptimalCalibration2026,
-  title={Optimal Calibration of the endpoint corrected
-Hilbert Transform},
+  title = {Optimal Calibration of the endpoint-corrected Hilbert Transform},
   author={Osmers, Eike AND Kolossa, Dorothea},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2601.13962},
   year={2026}
+  doi = {10.48550/ARXIV.2601.13962},
 }
 ```
 
